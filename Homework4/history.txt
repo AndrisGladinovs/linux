@@ -1,0 +1,47 @@
+   0 mkdir /tmp/andris
+   1 cd /tmp/andris
+   2 ls -l
+   3 touch sleeper.sh
+   4 ls -l
+   5 vi sleeper.sh
+   6 cat sleeper.sh
+   7 /tmp/andris/sleeper.sh
+   8 ./sleeper.sh
+   9 chmod 755 /tmp/andris/sleeper.sh
+  10 cd /tmp/andris
+  11 ls -la
+  12 ./sleeper.sh
+  13 vi sleeper.sh
+  14 cd /tmp/andris
+  15 ./sleeper.sh
+  16 vi sleeper.sh
+  17 ./sleeper.sh
+  18 vi sleeper.sh
+  19 /tmp/andris/sleeper.sh
+  20 vi sleeper.sh
+  21 /tmp/andris/sleeper.sh
+  22 vi sleeper.sh
+  23 /tmp/andris/sleeper.sh
+  24 vi sleeper.sh
+  25 /tmp/andris/sleeper.sh
+  26 cat /proc/cpuinfo
+  27 cat /etc/os-release
+  28 cat /proc/cpuinfo
+  29 cat /etc/os-release
+  30 cat /etc/os-release | grep NAME
+  31 vi sleeper.sh
+  32 ./sleeper.sh
+  33 cat /etc/os-release | grep NAME
+  34 /etc/os-release | grep NAME >> /tmp/andris/sleeper.sh
+  35 vi sleeper.sh
+  36 cd /tmp/andris
+  37 ls -l
+  38 ls -la
+  39 touch {1..100}.txt >> /tmp/andris
+  40 cd /tmp/andris
+  41 vi sleeper.sh
+  42 ls -la
+  43 history
+  44 history >> history.txt
+  45 history.txt >> /tmp/andris
+  46 history >> /tmp/history.txt
